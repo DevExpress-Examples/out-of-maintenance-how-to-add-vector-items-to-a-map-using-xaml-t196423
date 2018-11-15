@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainPage.xaml](./CS/HowToGenerateItems/MainPage.xaml) (VB: [MainPage.xaml](./VB/VB_HowToGenerateItems/MainPage.xaml))**
+<!-- default file list end -->
 # How to: Add vector items to a map using Xaml
 
 
